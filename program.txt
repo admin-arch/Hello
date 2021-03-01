@@ -1,5 +1,0 @@
-https://youtu.be/LPT7v69guVY   - eclipse github pull push
-
-https://youtu.be/xuB1Id2Wxak   -edurekha push and pull in bash
-
-<user username="admin" password="admin123" roles="manager-script"/>
